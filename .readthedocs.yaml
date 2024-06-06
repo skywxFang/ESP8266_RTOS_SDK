@@ -24,4 +24,4 @@ python:
 
 # Specify the path for conf.py
 sphinx:
-  configuration: docs/zh_CN/conf.py
+  configuration: docs/en/conf.py
