@@ -1,1 +1,1 @@
-setuptools<58
+setuptools<57.5.0
