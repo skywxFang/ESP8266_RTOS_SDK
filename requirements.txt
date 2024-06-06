@@ -1,7 +1,7 @@
 # This is a list of python packages needed for ESP-IDF. This file is used with pip.
 # Please see the Get Started section of the ESP-IDF Programming Guide for further information.
 #
-setuptools
+setuptools==57.5.0
 # The setuptools package is required to install source distributions and on some systems is not installed by default.
 # Please keep it as the first item of this list.
 #
@@ -11,4 +11,3 @@ future>=0.15.2
 cryptography>=2.1.4,<35
 pyparsing>=2.0.3,<2.4.0
 pyelftools>=0.22
-funcparserlib==1.0.0a0
